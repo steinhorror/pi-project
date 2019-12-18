@@ -1,2 +1,3 @@
 # pi-project
-You're not allowed to reupload,commit or share this project.
+This is a little fun challenge/project for me.
+This Programm defines Pi with a lot of decimals then you can search for your date inside of pis decimals and you're knowing at wich position it starts!
